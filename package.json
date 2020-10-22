@@ -1,0 +1,21 @@
+{
+  "name": "vueasyncclick",
+  "version": "1.0.0",
+  "description": "vue 异步点击事件",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c build/rollup.config.js"
+  },
+  "keywords": [
+    "vueAsyncClick"
+  ],
+  "author": "zhaozz",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.27.0",
+    "babel-core": "^6.26.3",
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
